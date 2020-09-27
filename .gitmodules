@@ -1,3 +1,6 @@
 [submodule "hy220/2020f"]
 	path = hy220/2020f
 	url = https://github.com/papaef/hy220_2020f
+[submodule "hy425/2020f"]
+	path = hy425/2020f
+	url = https://github.com/papaef/hy425_2020f

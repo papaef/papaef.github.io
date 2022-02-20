@@ -1,18 +1,9 @@
-[submodule "hy220/2020f"]
-	path = hy220/2020f
-	url = git@github.com:papaef/hy220_2020f.git
 [submodule "hy220/2022s"]
 	path = hy220/2022s
-	url = git@github.com:papaef/hy220_2022s.git
-[submodule "hy425/2020f"]
-	path = hy425/2020f
-	url = git@github.com:papaef/hy425_2020f.git
+	url = https://github.com/papaef/hy220_2022s.git
 [submodule "hy425/2021f"]
 	path = hy425/2021f
-	url = git@github.com:papaef/hy425_2021f.git
-[submodule "hy523/2021s"]
-	path = hy523/2021s
-	url = git@github.com:papaef/hy523_2021s.git
+	url = https://github.com/papaef/hy425_2021f.git
 [submodule "hy523/2022s"]
 	path = hy523/2022s
-	url = git@github.com:papaef/hy523_2022s.git
+	url = https://github.com/papaef/hy523_2022s.git

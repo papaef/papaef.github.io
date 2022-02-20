@@ -10,9 +10,6 @@
 [submodule "hy425/2021f"]
 	path = hy425/2021f
 	url = https://github.com/papaef/hy425_2021f
-[submodule "hy220/2022s"]
-	path = hy220/2022s
-	url = https://github.com/papaef/hy220_2022s
 [submodule "hy523/2022s"]
 	path = hy523/2022s
 	url = https://github.com/papaef/hy523_2022s

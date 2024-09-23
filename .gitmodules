@@ -19,3 +19,6 @@
 [submodule "hy220/2024s"]
 	path = hy220/2024s
 	url = https://github.com/papaef/hy220_2024s.git
+[submodule "hy425/2024f"]
+	path = hy425/2024f
+	url = https://github.com/papaef/hy425_2024f.git

@@ -28,3 +28,6 @@
 [submodule "hy523/2025s"]
 	path = hy523/2025s
 	url = https://github.com/papaef/hy523_2025s.git
+[submodule "hy425/2025f"]
+	path = hy425/2025f
+	url = https://github.com/papaef/hy425_2025f.git

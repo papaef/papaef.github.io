@@ -1,18 +1,6 @@
-[submodule "hy220/2022s"]
-	path = hy220/2022s
-	url = https://github.com/papaef/hy220_2022s.git
 [submodule "hy523/2022s"]
 	path = hy523/2022s
 	url = https://github.com/papaef/hy523_2022s.git
-[submodule "hy220/2023s"]
-	path = hy220/2023s
-	url = https://github.com/papaef/hy220_2023s.git
-[submodule "hy220/2024s"]
-	path = hy220/2024s
-	url = https://github.com/papaef/hy220_2024s.git
-[submodule "hy220/2025s"]
-	path = hy220/2025s
-	url = https://github.com/papaef/hy220_2025s.git
 [submodule "hy523/2025s"]
 	path = hy523/2025s
 	url = https://github.com/papaef/hy523_2025s.git
